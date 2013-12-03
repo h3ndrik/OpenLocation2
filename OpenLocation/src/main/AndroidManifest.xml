@@ -39,6 +39,11 @@
         <service
             android:name=".services.NetworkService"
             android:label="NetworkService" />
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyDxLGSaqEgsonbmMu0H4wy9IdWChdzcTPE"/>
+
     </application>
 
 </manifest>
